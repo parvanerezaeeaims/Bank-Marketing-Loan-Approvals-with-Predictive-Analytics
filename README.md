@@ -1,4 +1,4 @@
-# Predicting Term Deposit Subscriptions with Bank Marketing Data
+# Predicting Term Deposit Subscriptions on Bank Marketing Data
 
 ## Overview
 This project focuses on predicting whether a bank client will subscribe to a term deposit based on historical marketing data. Using machine learning, we analyze customer attributes and past marketing campaign outcomes to improve decision-making and optimize future campaigns.
